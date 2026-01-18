@@ -8,7 +8,7 @@ Este proyecto está pensado para ayudar a creadores y usuarios a:
 - Publicar con mayor claridad y coherencia
 
 🌐 **Sitio web:**  
-https://tioreality.github.io/Enciclopedia-de-etiquetas-REALITY-APP/
+https://tioreality.github.io/Enciclopedia-de-etiquetas-REALITY-APP-Post/
 
 ---
 
